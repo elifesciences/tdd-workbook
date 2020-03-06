@@ -1,8 +1,5 @@
 function getNumberAt(position) {
-  if (position == 1) {
-    return 1;
-  }
-  return 0;
+  return position;
 };
 
 test('first number in sequence is zero', () => {
