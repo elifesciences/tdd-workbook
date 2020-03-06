@@ -1,0 +1,22 @@
+{
+  "name": "tdd-workbook",
+  "version": "1.0.0",
+  "description": "Learning TDD by following Jason Gorman's book",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elifesciences/tdd-workbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elifesciences/tdd-workbook/issues"
+  },
+  "homepage": "https://github.com/elifesciences/tdd-workbook#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
