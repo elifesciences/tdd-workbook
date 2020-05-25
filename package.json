@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/elifesciences/tdd-workbook#readme",
   "devDependencies": {
-    "jest": "^25.1.0"
+    "jest": "^25.5.4"
   }
 }
